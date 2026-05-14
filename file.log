@@ -1,0 +1,5 @@
+Error (database connection): could not find driver, on file: C:\xampp\htdocs\php_tutorial\database.php, on line: 24 on : 26/04/30 10:39:30 AM.
+Error (database connection): could not find driver, on file: C:\xampp\htdocs\php_tutorial\database.php, on line: 23 on : 26/05/08 10:56:19 AM.
+Error (database connection): SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. , on file: C:\xampp\htdocs\php_tutorial\database.php, on line: 23 on : 26/05/08 11:01:55 AM.
+Error (database connection): SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. , on file: C:\xampp\htdocs\php_tutorial\database.php, on line: 23 on : 26/05/08 11:02:30 AM.
+Error (database connection): SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. , on file: C:\xampp\htdocs\php_tutorial\database.php, on line: 23 on : 26/05/08 11:05:21 AM.
