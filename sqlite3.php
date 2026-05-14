@@ -74,9 +74,6 @@ echo "\n";
 
 $db->close();
 
-
-
-//Section 60.2: Querying a database
 //Create a new SQLite3 object from a database file on the server.
 $database = new SQLite3('mysqlitedb.db');
 //Query the database with SQL
